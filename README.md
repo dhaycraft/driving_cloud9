@@ -1,4 +1,4 @@
-# Driving Cloud9 Sagemaker
+# Driving Cloud9 Sagemaker Endpoint
 
 <p>
 Train a Sagemaker model that can drive through an environment by selecting one of three outputs(left, right, straight) for each initialization.
